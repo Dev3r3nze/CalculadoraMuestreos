@@ -1,4 +1,4 @@
-# Calculadora de muestreos (investigación comercial)
+# Calculadora de muestreos [en desuso]
 
 En desarrollo...
 
